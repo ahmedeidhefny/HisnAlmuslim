@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ahmed.hisnalmuslimapp.ui.main.MainActivity">
+
+    <item
+        android:id="@+id/action_increase"
+        android:icon="@drawable/increase_size"
+        android:orderInCategory="100"
+        android:title="@string/font_size"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_decrease"
+        android:icon="@drawable/decrease_size"
+        android:orderInCategory="100"
+        android:title="@string/font_size"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_alarm"
+        android:icon="@drawable/ic_add_alarm"
+        android:iconTint="@color/white"
+        android:orderInCategory="100"
+        android:title="@string/zkr_alarm"
+        app:showAsAction="always" />
+
+
+</menu>
+

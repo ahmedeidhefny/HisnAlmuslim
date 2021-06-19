@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حصن المسلم</string>
+
+    <string name="action_settings">الاعدادات</string>
+
+    <string name="next">القادم</string>
+    <string name="previous">ما قبله</string>
+    <string name="setting">الاعدادات</string>
+    <string name="select_language">حدد نوع اللغه</string>
+    <string name="choose_language">اختيار اللغه</string>
+
+    <string name="font_size">حجم الخط</string>
+    <string name="zkr_alarm">المنبه</string>
+
+    <string name="english_language">انجليزى</string>
+    <string name="arabic_language">عربى</string>
+    <string name="both_language">كلايهما</string>
+
+    <string name="both2_language">عربى وانجليزى معا</string>
+    <string name="choose_font">اختار حجم الخط</string>
+
+    <string name="collection">الرئيسيه</string>
+    <string name="books">الكتب</string>
+    <string name="hadiths">الأحديث</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">حصن المسلم</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_home">الرئسيه</string>
+    <string name="menu_fav">المفضلات</string>
+
+    <string name="added_fav">تم الاضافه الى المفضلات</string>
+    <string name="cannot_added_fav">لا يستطيع اضافه هذا العنصر الى المفضلات</string>
+    <string name="delete_fav">تم مسح هذا العنصر من المفضلات</string>
+    <string name="cannot_delete_fav">لا يستطيع مسح هذا العنصر الى المفضلات</string>
+
+    <string-array name="font_size">
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+</resources>
