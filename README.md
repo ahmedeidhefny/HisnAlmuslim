@@ -27,8 +27,5 @@ uses this android architecture components :
 Find this project useful ? ❤️
 Support it by clicking the ⭐ button on the upper right of this page. ✌️
 
-License
--------
-
-Copyright Fab 2021 Ahmed Eid Hefny (ahmedeid2026@gmail.com).
+Developed at Jan 2021 By Ahmed Eid Hefny (ahmedeid2026@gmail.com).
 
