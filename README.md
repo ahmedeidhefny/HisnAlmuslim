@@ -24,8 +24,6 @@ uses this android architecture components :
 [glide]: https://github.com/bumptech/glide
 
 
-### Reporting Issues
-
 Find this project useful ? ❤️
 Support it by clicking the ⭐ button on the upper right of this page. ✌️
 
